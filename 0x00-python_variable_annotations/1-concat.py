@@ -2,6 +2,7 @@
 Module contains function that concatanates two strings
 '''
 
+
 def concat(str1: str, str2: str) -> str:
     '''Joins two strings and returns a concated one.
 
