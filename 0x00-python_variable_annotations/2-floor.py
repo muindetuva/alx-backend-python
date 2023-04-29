@@ -4,6 +4,7 @@ Module contains function that floors a float
 '''
 import math
 
+
 def floor(n: float) -> int:
     '''Takes a float and returns the floor of the float
 
