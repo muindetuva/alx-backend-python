@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
 Module contains function that concatanates two strings
 '''
